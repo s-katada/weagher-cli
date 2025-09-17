@@ -1,4 +1,4 @@
-use chrono::{DateTime};
+use chrono::DateTime;
 use chrono_tz::Asia::Tokyo;
 use serde::Deserialize;
 
